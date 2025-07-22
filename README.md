@@ -1,6 +1,22 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Tableau
+## ✅ Tableau Lab Submission
+
+### 🧩 Dashboard
+![Dashboard](lab-tableau-main/Screenshot%202025-07-22%20113134.png)
+
+### 📊 Gender Barplot
+![Gender Barplot](lab-tableau-main/Screenshot%202025-07-22%20112253.png)
+
+### 📊 Employment & Gender Barplot
+![Employment Barplot](lab-tableau-main/Screenshot%202025-07-22%20112126.png)
+
+### 🌍 State Treeplot
+![State Treeplot](lab-tableau-main/Screenshot%202025-07-22%20102150.png)
+
+### 👩‍❤️‍👨 Marital Status x Gender Table
+![Cross Table](lab-tableau-main/Screenshot%202025-07-22%20102450%20-%20Copy.png)
 
 ### Learning Outcomes
 
