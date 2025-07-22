@@ -5,20 +5,21 @@
 
 ## ✅ Tableau Lab Submission
 
-### 📊 Dashboard
+### 🧭 Dashboard
 ![Dashboard](Screenshot%202025-07-22%20113134.png)
 
-### 📈 Gender Barplot
+### 📊 Gender Barplot
 ![Gender Barplot](Screenshot%202025-07-22%20145415.png)
 
-### 👨‍👩‍👧 Employment & Gender Barplot
+### 👥 Employment & Gender Barplot
 ![Employment Barplot](Screenshot%202025-07-22%20145717.png)
 
-### 🌳 State Treemap
-![State Treemap](Screenshot%202025-07-22%20145743.png)
+### 🌐 State Treeplot
+![State Treeplot](Screenshot%202025-07-22%20145743.png)
 
-### 📊 Marital Status vs Gender Table
-![Marital Status Table](Screenshot%202025-07-22%20145808.png)
+### 💍 Marital Status × Gender Table
+![Cross Table](Screenshot%202025-07-22%20145808.png)
+
 
 
 Upon completion of this lab, you will be able to:
