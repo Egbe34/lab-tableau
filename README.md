@@ -3,22 +3,23 @@
 # Lab | Tableau
 ## ✅ Tableau Lab Submission
 
-### 🧩 Dashboard
-![Dashboard](lab-tableau-main/Screenshot%202025-07-22%20113134.png)
+## ✅ Tableau Lab Submission
 
-### 📊 Gender Barplot
-![Gender Barplot](lab-tableau-main/Screenshot%202025-07-22%20112253.png)
+### 📊 Dashboard
+![Dashboard](Screenshot%202025-07-22%20113134.png)
 
-### 📊 Employment & Gender Barplot
-![Employment Barplot](lab-tableau-main/Screenshot%202025-07-22%20112126.png)
+### 📈 Gender Barplot
+![Gender Barplot](Screenshot%202025-07-22%20145415.png)
 
-### 🌍 State Treeplot
-![State Treeplot](lab-tableau-main/Screenshot%202025-07-22%20102150.png)
+### 👨‍👩‍👧 Employment & Gender Barplot
+![Employment Barplot](Screenshot%202025-07-22%20145717.png)
 
-### 👩‍❤️‍👨 Marital Status x Gender Table
-![Cross Table](lab-tableau-main/Screenshot%202025-07-22%20102450%20-%20Copy.png)
+### 🌳 State Treemap
+![State Treemap](Screenshot%202025-07-22%20145743.png)
 
-### Learning Outcomes
+### 📊 Marital Status vs Gender Table
+![Marital Status Table](Screenshot%202025-07-22%20145808.png)
+
 
 Upon completion of this lab, you will be able to:
 
